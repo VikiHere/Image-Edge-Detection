@@ -1,1 +1,1 @@
-# Image-Edge-Detection
+# Edge Detection Overview
